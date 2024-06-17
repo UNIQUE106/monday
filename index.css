@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+} 
+
+header{
+    background-color: powderblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+button{
+    background-color: red;
+    color: black;
+    padding: 6px;
+    border-radius: 10px;
+    /* border: 10px solid coral; */
+}
+
+.links{
+    display: flex;
+    /* border: 3px solid red; */
+    gap:200px;
+    align-items: center;
+}
